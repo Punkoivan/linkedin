@@ -1,9 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
   <diagram name="Page-1" id="tI9g5UVs6BiHLvYLlzyc">
-    <mxGraphModel>
+    <mxGraphModel dx="994" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-2" value="Process 1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;comic=1;jiggle=2;fillColor=#ffff88;strokeColor=#36393d;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-3" value="Process 2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;comic=1;linejoin=miter-clip;glass=0;shadow=0;fillColor=#cce5ff;strokeColor=#36393d;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;flowAnimation=1;comic=1;jiggle=4;linecap=round;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NE58R7Pgc0rKDY2GueEK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="370" as="sourcePoint" />
+            <mxPoint x="300" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-13" value="&lt;div&gt;DATA&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NE58R7Pgc0rKDY2GueEK-8">
+          <mxGeometry x="-0.25" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-9" value="" style="shape=link;html=1;rounded=0;width=43;fillColor=#a20025;strokeColor=#6F0000;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="180" y="370" as="sourcePoint" />
+            <mxPoint x="300" y="369.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-11" value="&lt;div&gt;PIPE&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NE58R7Pgc0rKDY2GueEK-9">
+          <mxGeometry x="0.1515" y="22" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="NE58R7Pgc0rKDY2GueEK-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-12" value="&lt;div&gt;Write end of the pipe&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="1" source="NE58R7Pgc0rKDY2GueEK-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-16" value="&lt;div&gt;Read end of the pipe&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;flipV=0;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-18" value="sysctl -n fs/pipe-max-size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="250" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NE58R7Pgc0rKDY2GueEK-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="NE58R7Pgc0rKDY2GueEK-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="340" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="280" />
+              <mxPoint x="250" y="280" />
+              <mxPoint x="300" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
