@@ -188,6 +188,9 @@
         <mxCell id="accpJ5uEPymamlQqylZX-58" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="358.44" y="172.5" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="accpJ5uEPymamlQqylZX-61" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cell_phone;" vertex="1" parent="1">
+          <mxGeometry x="358.44" y="72.5" width="8.33" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
