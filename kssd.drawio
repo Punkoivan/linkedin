@@ -100,6 +100,21 @@
             <mxPoint x="220" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="accpJ5uEPymamlQqylZX-28" value="" style="points=[[0.02,0.015,0],[0.5,0,0],[0.98,0.015,0],[1,0.38,0],[0.895,0.98,0],[0.5,1,0],[0.105,0.98,0],[0,0.38,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.secure_endpoint_pc;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="210" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="accpJ5uEPymamlQqylZX-29" value="" style="points=[[0.02,0.015,0],[0.5,0,0],[0.98,0.015,0],[1,0.38,0],[0.895,0.98,0],[0.5,1,0],[0.105,0.98,0],[0,0.38,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.secure_endpoint_pc;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="47.5" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="accpJ5uEPymamlQqylZX-30" value="" style="points=[[0.02,0.015,0],[0.5,0,0],[0.98,0.015,0],[1,0.38,0],[0.895,0.98,0],[0.5,1,0],[0.105,0.98,0],[0,0.38,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.secure_endpoint_pc;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="240" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="accpJ5uEPymamlQqylZX-31" value="" style="points=[[0.02,0.015,0],[0.5,0,0],[0.98,0.015,0],[1,0.38,0],[0.895,0.98,0],[0.5,1,0],[0.105,0.98,0],[0,0.38,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.secure_endpoint_pc;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="accpJ5uEPymamlQqylZX-32" value="" style="shape=mxgraph.signs.science.laboratory;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400" y="240" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
