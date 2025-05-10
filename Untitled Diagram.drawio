@@ -56,17 +56,8 @@
         <mxCell id="ZXXEGezK8kadWmydNz4W-15" value="Диспетчерська" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="110" y="-160" width="405" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="ZXXEGezK8kadWmydNz4W-16" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+        <mxCell id="ZXXEGezK8kadWmydNz4W-16" value="Робоча станція" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
           <mxGeometry x="190" y="-90" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXXEGezK8kadWmydNz4W-17" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-90" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXXEGezK8kadWmydNz4W-18" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="410" y="4.100000000000003" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="ZXXEGezK8kadWmydNz4W-19" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
-          <mxGeometry x="400" y="120" width="50" height="67.76" as="geometry" />
         </mxCell>
         <mxCell id="ZXXEGezK8kadWmydNz4W-20" value="&lt;div&gt;WiFi роутер&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Wireless_Router_N_128x128.png" vertex="1" parent="1">
           <mxGeometry x="250" y="137.76" width="80" height="50" as="geometry" />
@@ -117,6 +108,15 @@
             <mxPoint x="-180" y="80" as="sourcePoint" />
             <mxPoint x="-90" y="68" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ZXXEGezK8kadWmydNz4W-38" value="Робоча станція" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-80" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXXEGezK8kadWmydNz4W-39" value="Робоча станція" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="420" y="122.1" width="42.72" height="57.9" as="geometry" />
+        </mxCell>
+        <mxCell id="ZXXEGezK8kadWmydNz4W-40" value="Робоча станція" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="425.6" y="9.100000000000003" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
